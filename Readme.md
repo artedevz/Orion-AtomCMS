@@ -42,3 +42,5 @@ $userIp = request()->header('CF-Connecting-IP') ?? request()->ip();
 Bu düzenleme, Cloudflare üzerinden gelen doğru IP adresini almanızı sağlar.
 
 ---
+
+My Discord: art_ops
